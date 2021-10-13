@@ -13,4 +13,5 @@ int main()
             n++;
         }
     }
+    return 0;
 }

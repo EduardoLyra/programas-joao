@@ -9,4 +9,5 @@ int main()
         lista[i] = i;
         printf("%d;", lista[i]);
     }
+    return 0;
 }
